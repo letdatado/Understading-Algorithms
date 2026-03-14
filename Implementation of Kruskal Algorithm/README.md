@@ -25,8 +25,3 @@ Hi!
 
 
 4. Please do not confuse "unittesting_delete_it.PNG" with the main output PNG.
-
-
-
-Thanks, and warm regards, 
-Ali Rizvi
