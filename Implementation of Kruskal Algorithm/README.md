@@ -1,6 +1,6 @@
 # Kruskal MST Program
 
-Hi! 👋  
+Hi!
 This repository contains a program that generates a Minimum Spanning Tree using **Kruskal's Algorithm**.
 
 ---
@@ -13,7 +13,7 @@ Before running the program, install the required Python packages using:
 pip install -r requirements.txt
 ```
 
-# Running the Program
+## Running the Program
 
 To execute the program, run the following command in your terminal:
 ```bash
@@ -30,3 +30,11 @@ To run the unit tests for the project, use the following command:
 ```bash
 python -m unittest discover -s test -p "test_*.py"
 ```
+
+
+## ⚠️ Important Note
+Please do not confuse the file:
+```bash
+unittesting_delete_it.PNG
+```
+with the main program output image.
